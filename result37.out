@@ -1,0 +1,1903 @@
+Job start at Sun May 26 03:05:14 CEST 2024
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: error: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: pre_launch_srun_job: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: error: run_srun_script: fork: Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: _start_msg_tree_internal: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: pmi2_start_agent: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: _msg_thr_create: pthread_create error Resource temporarily unavailable
+srun: fatal: client_io_handler_start: pthread_create error Resource temporarily unavailable
+searchABCDnolugg.py:221: RuntimeWarning: divide by zero encountered in scalar divide
+  Fi =  A* np.exp((rij*0 -b) / B) * (l + (1-l)*((1+cosphi)/2)) * (dij + d2)/(2*b) * (xdij/dij + (xdij - velocities[j]*Dt)/d2)/2
+searchABCDnolugg.py:136: RuntimeWarning: invalid value encountered in divide
+  vect = res/(np.linalg.norm(res)+1e-5)
+Traceback (most recent call last):
+  File "searchABCDnolugg.py", line 413, in <module>
+    top5, minErr, minPed, minWalls = grid_search(iterations)
+  File "searchABCDnolugg.py", line 397, in grid_search
+    total_overlaps, walls_overlaps, ped_left, dens = main_loop(a, b, c, d, kn, kt, room_width, room_height, door_width, exit_doorx,exit_doory, num_pedestrians, num_iterations, dt, deleted, tau, m, v0, L, positions, wallsy, wallsx, velocities, r, iterations)
+  File "searchABCDnolugg.py", line 266, in main_loop
+    forces = model(A, B, C, D, kn, kt, room_width, room_height, door_width, exit_doorx,
+  File "searchABCDnolugg.py", line 187, in social_force_vadere
+    eikDir = getGrad(positions, deleted, tt)
+  File "searchABCDnolugg.py", line 81, in getGrad
+    x = int((position[0]+8)/resol)
+OverflowError: cannot convert float infinity to integer
+srun: error: lm3-w007: task 0: Exited with exit code 1
+
+results =  [[0.15, 0.25, 10, 0.2, 0.8]] 1800.95 248660 7540
+
+results =  [[0.15, 0.25, 10, 0.2, 1.0]] 1805.3 229636 6643
+
+results =  [[0.15, 0.25, 10, 0.2, 0.5]] 1770.66 330974 10361
+
+results =  [[0.15, 0.25, 10, 0.2, 0.3]] 1754.08 449640 14588
+
+results =  [[3.75, 0.15, 10, 0.2, 0.8]] 1847.4 185128 4003
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[0.55, 0.15, 10, 0.2, 1.0]] 1817.62 208442 5149
+
+results =  [[1.35, 0.15, 10, 0.2, 1.0]] 1813.54 210058 3947
+
+results =  [[2.55, 0.15, 10, 0.2, 0.5]] 1798.78 240434 5267
+searchABCDnolugg.py:221: RuntimeWarning: divide by zero encountered in scalar divide
+  Fi =  A* np.exp((rij*0 -b) / B) * (l + (1-l)*((1+cosphi)/2)) * (dij + d2)/(2*b) * (xdij/dij + (xdij - velocities[j]*Dt)/d2)/2
+searchABCDnolugg.py:136: RuntimeWarning: invalid value encountered in divide
+  vect = res/(np.linalg.norm(res)+1e-5)
+Traceback (most recent call last):
+  File "searchABCDnolugg.py", line 413, in <module>
+    top5, minErr, minPed, minWalls = grid_search(iterations)
+  File "searchABCDnolugg.py", line 397, in grid_search
+    total_overlaps, walls_overlaps, ped_left, dens = main_loop(a, b, c, d, kn, kt, room_width, room_height, door_width, exit_doorx,exit_doory, num_pedestrians, num_iterations, dt, deleted, tau, m, v0, L, positions, wallsy, wallsx, velocities, r, iterations)
+  File "searchABCDnolugg.py", line 266, in main_loop
+    forces = model(A, B, C, D, kn, kt, room_width, room_height, door_width, exit_doorx,
+  File "searchABCDnolugg.py", line 187, in social_force_vadere
+    eikDir = getGrad(positions, deleted, tt)
+  File "searchABCDnolugg.py", line 81, in getGrad
+    x = int((position[0]+8)/resol)
+OverflowError: cannot convert float infinity to integer
+srun: error: lm3-w004: task 0: Exited with exit code 1
+
+results =  [[0.15, 0.15, 10, 0.2, 0.8]] 1818.92 238014 6913
+
+results =  [[0.55, 0.15, 10, 0.2, 0.8]] 1807.99 227718 5674
+
+results =  [[1.35, 0.15, 10, 0.2, 0.9]] 1796.35 213826 4177
+
+results =  [[0.15, 0.65, 10, 0.2, 0.8]] 1722.92 372026 10254
+
+results =  [[1.35, 0.35, 10, 0.2, 0.3]] 1749.57 204740 4893
+
+results =  [[0.15, 0.15, 10, 0.2, 0.9]] 1815.1 229658 6463
+
+results =  [[2.15, 0.15, 10, 0.2, 0.1]] 1790.71 290518 6690
+
+results =  [[2.55, 0.15, 10, 0.2, 0.2]] 1794.27 253380 5059
+searchABCDnolugg.py:221: RuntimeWarning: divide by zero encountered in scalar divide
+  Fi =  A* np.exp((rij*0 -b) / B) * (l + (1-l)*((1+cosphi)/2)) * (dij + d2)/(2*b) * (xdij/dij + (xdij - velocities[j]*Dt)/d2)/2
+searchABCDnolugg.py:136: RuntimeWarning: invalid value encountered in divide
+  vect = res/(np.linalg.norm(res)+1e-5)
+Traceback (most recent call last):
+  File "searchABCDnolugg.py", line 413, in <module>
+    top5, minErr, minPed, minWalls = grid_search(iterations)
+  File "searchABCDnolugg.py", line 397, in grid_search
+    total_overlaps, walls_overlaps, ped_left, dens = main_loop(a, b, c, d, kn, kt, room_width, room_height, door_width, exit_doorx,exit_doory, num_pedestrians, num_iterations, dt, deleted, tau, m, v0, L, positions, wallsy, wallsx, velocities, r, iterations)
+  File "searchABCDnolugg.py", line 266, in main_loop
+    forces = model(A, B, C, D, kn, kt, room_width, room_height, door_width, exit_doorx,
+  File "searchABCDnolugg.py", line 187, in social_force_vadere
+    eikDir = getGrad(positions, deleted, tt)
+  File "searchABCDnolugg.py", line 81, in getGrad
+    x = int((position[0]+8)/resol)
+OverflowError: cannot convert float infinity to integer
+srun: error: lm3-w028: task 0: Exited with exit code 1
+
+results =  [[0.15, 0.15, 10, 0.2, 0.6]] 1811.11 262536 8251
+
+results =  [[2.95, 0.15, 10, 0.2, 0.2]] 1798.26 234594 4831
+
+results =  [[2.15, 0.15, 10, 0.2, 0.3]] 1802.86 247618 5008
+
+results =  [[0.15, 0.15, 10, 0.2, 0.7]] 1815.36 251978 7396
+
+results =  [[2.15, 0.15, 10, 0.2, 0.2]] 1793.32 248262 5105
+
+results =  [[0.15, 0.15, 10, 0.2, 0.5]] 1802.69 281032 8824
+
+results =  [[1.35, 0.35, 10, 0.2, 0.2]] 1743.92 231968 5291
+
+results =  [[0.15, 0.25, 10, 0.2, 0.9]] 1799.74 234562 6973
+
+results =  [[0.15, 0.35, 10, 0.2, 0.3]] 1737.76 502192 15639
+
+results =  [[0.55, 0.15, 10, 0.2, 0.6]] 1792.88 240924 6166
+
+results =  [[2.55, 0.15, 10, 0.2, 0.3]] 1800.69 234836 4619
+
+results =  [[0.55, 0.15, 10, 0.2, 0.5]] 1794.44 253700 6802
+
+results =  [[0.55, 0.85, 10, 0.2, 1.0]] 1568.58 119740 5049
+
+results =  [[3.75, 0.15, 10, 0.2, 0.1]] 1774.48 243124 7130
+
+results =  [[0.55, 0.15, 10, 0.2, 0.4]] 1777.17 271704 7175
+
+results =  [[0.15, 0.25, 10, 0.2, 0.7]] 1788.8 273292 8311
+searchABCDnolugg.py:221: RuntimeWarning: divide by zero encountered in scalar divide
+  Fi =  A* np.exp((rij*0 -b) / B) * (l + (1-l)*((1+cosphi)/2)) * (dij + d2)/(2*b) * (xdij/dij + (xdij - velocities[j]*Dt)/d2)/2
+searchABCDnolugg.py:136: RuntimeWarning: invalid value encountered in divide
+  vect = res/(np.linalg.norm(res)+1e-5)
+Traceback (most recent call last):
+  File "searchABCDnolugg.py", line 413, in <module>
+    top5, minErr, minPed, minWalls = grid_search(iterations)
+  File "searchABCDnolugg.py", line 397, in grid_search
+    total_overlaps, walls_overlaps, ped_left, dens = main_loop(a, b, c, d, kn, kt, room_width, room_height, door_width, exit_doorx,exit_doory, num_pedestrians, num_iterations, dt, deleted, tau, m, v0, L, positions, wallsy, wallsx, velocities, r, iterations)
+  File "searchABCDnolugg.py", line 266, in main_loop
+    forces = model(A, B, C, D, kn, kt, room_width, room_height, door_width, exit_doorx,
+  File "searchABCDnolugg.py", line 187, in social_force_vadere
+    eikDir = getGrad(positions, deleted, tt)
+  File "searchABCDnolugg.py", line 81, in getGrad
+    x = int((position[0]+8)/resol)
+OverflowError: cannot convert float infinity to integer
+srun: error: lm3-w005: task 0: Exited with exit code 1
+
+results =  [[0.15, 0.25, 10, 0.2, 0.6]] 1785.5 288988 8969
+
+results =  [[0.55, 0.15, 10, 0.2, 0.3]] 1774.22 300574 8620
+
+results =  [[0.95, 0.15, 10, 0.2, 0.5]] 1797.83 236120 5463
+
+results =  [[0.15, 0.35, 10, 0.2, 1.0]] 1786.98 256858 7666
+
+results =  [[0.95, 0.15, 10, 0.2, 0.6]] 1801.82 228244 5393
+
+results =  [[0.95, 0.15, 10, 0.2, 0.7]] 1814.41 221456 5170
+
+results =  [[0.95, 0.15, 10, 0.2, 0.9]] 1815.19 206618 4560
+
+results =  [[0.15, 0.45, 10, 0.2, 0.3]] 1723.35 551464 15912
+
+results =  [[0.15, 0.65, 10, 0.2, 1.0]] 1733.77 311192 8739
+
+results =  [[0.15, 0.35, 10, 0.2, 0.9]] 1775.0 279040 8313
+
+results =  [[0.95, 0.15, 10, 0.2, 0.3]] 1780.99 272336 6305
+
+results =  [[0.15, 0.65, 10, 0.2, 0.9]] 1728.13 346180 9492
+
+results =  [[0.15, 0.35, 10, 0.2, 0.8]] 1773.35 283374 8649
+
+results =  [[0.55, 0.15, 10, 0.2, 0.2]] 1768.49 330982 9984
+
+results =  [[3.35, 0.15, 10, 0.2, 0.9]] 1840.54 187434 4346
+
+results =  [[0.15, 0.15, 10, 0.2, 0.3]] 1783.77 388572 13159
+
+results =  [[2.55, 0.15, 10, 0.2, 0.7]] 1832.2 220726 3794
+
+results =  [[0.15, 0.65, 10, 0.2, 0.5]] 1719.27 469628 12714
+
+results =  [[0.55, 0.25, 10, 0.2, 0.7]] 1792.53 227420 5625
+
+results =  [[0.15, 0.25, 10, 0.2, 0.4]] 1762.93 373424 12056
+
+results =  [[0.15, 0.35, 10, 0.2, 0.7]] 1768.92 312436 9686
+
+results =  [[0.15, 0.35, 10, 0.2, 0.6]] 1757.64 336920 10387
+
+results =  [[0.55, 0.25, 10, 0.2, 1.0]] 1797.4 205062 4922
+
+results =  [[2.55, 0.15, 10, 0.2, 0.6]] 1809.03 226970 5959
+
+results =  [[1.75, 0.15, 10, 0.2, 0.4]] 1802.95 228790 4918
+
+results =  [[0.55, 0.15, 10, 0.2, 0.1]] 1763.54 401900 12164
+
+results =  [[0.95, 0.15, 10, 0.2, 0.1]] 1770.75 353956 9022
+
+results =  [[0.15, 0.45, 10, 0.2, 1.0]] 1756.25 287888 8307
+
+results =  [[0.15, 0.55, 10, 0.2, 0.7]] 1733.51 379210 10624
+
+results =  [[0.55, 0.25, 10, 0.2, 0.9]] 1785.94 212098 5202
+
+results =  [[0.15, 0.45, 10, 0.2, 0.9]] 1754.08 308442 8920
+
+results =  [[1.35, 0.15, 10, 0.2, 0.8]] 1786.72 218596 4260
+
+results =  [[0.55, 0.25, 10, 0.2, 0.5]] 1779.6 277272 6576
+
+results =  [[1.75, 0.15, 10, 0.2, 0.3]] 1794.18 239334 6201
+
+results =  [[0.15, 0.45, 10, 0.2, 0.8]] 1753.39 326408 9576
+
+results =  [[3.35, 0.15, 10, 0.2, 0.6]] 1816.93 224514 3885
+
+results =  [[0.55, 0.25, 10, 0.2, 0.3]] 1770.75 316812 7574
+
+results =  [[0.15, 0.35, 10, 0.2, 0.5]] 1749.91 375600 11537
+
+results =  [[1.75, 0.15, 10, 0.2, 0.2]] 1789.41 275888 5706
+
+results =  [[1.35, 0.35, 10, 0.2, 0.5]] 1746.44 184594 4160
+
+results =  [[2.15, 0.25, 10, 0.2, 1.0]] 1779.77 173436 5050
+
+results =  [[0.15, 0.55, 10, 0.2, 1.0]] 1742.53 310004 8619
+
+results =  [[0.15, 0.45, 10, 0.2, 0.7]] 1747.83 351820 10273
+
+results =  [[1.75, 0.15, 10, 0.2, 0.1]] 1775.35 318150 6441
+
+results =  [[1.75, 0.15, 10, 0.2, 0.6]] 1792.88 221546 4536
+
+results =  [[0.15, 0.15, 10, 0.2, 1.0]] 1817.36 225286 6231
+
+results =  [[2.55, 0.15, 10, 0.2, 0.1]] 1793.4 282580 5609
+
+results =  [[2.95, 0.35, 10, 0.2, 0.8]] 1657.38 116688 6423
+
+results =  [[0.15, 0.35, 10, 0.2, 0.4]] 1747.48 414288 13065
+
+results =  [[0.95, 0.25, 10, 0.2, 0.4]] 1790.36 234530 5528
+
+results =  [[0.95, 0.25, 10, 0.2, 0.5]] 1771.27 221954 5049
+
+results =  [[1.75, 0.15, 10, 0.2, 0.9]] 1813.98 203812 4050
+
+results =  [[0.95, 0.25, 10, 0.2, 0.6]] 1783.25 207206 4822
+
+results =  [[0.15, 0.15, 10, 0.2, 0.2]] 1758.33 533620 16945
+
+results =  [[1.75, 0.15, 10, 0.2, 0.5]] 1805.21 242814 4739
+
+results =  [[0.15, 0.55, 10, 0.2, 0.9]] 1734.9 330024 9231
+
+results =  [[1.75, 0.15, 10, 0.2, 0.8]] 1791.58 203246 5090
+
+results =  [[0.95, 0.25, 10, 0.2, 0.3]] 1782.38 260050 5961
+
+results =  [[2.95, 0.15, 10, 0.2, 0.1]] 1818.23 270900 6265
+
+results =  [[2.95, 0.15, 10, 0.2, 0.7]] 1803.39 212580 6750
+
+results =  [[0.55, 0.35, 10, 0.2, 0.7]] 1775.0 211882 5393
+
+results =  [[0.15, 0.85, 10, 0.2, 0.5]] 1687.76 495468 12912
+
+results =  [[0.55, 0.35, 10, 0.2, 0.8]] 1782.9 207468 5071
+
+results =  [[0.15, 0.45, 10, 0.2, 0.5]] 1737.33 409642 12387
+
+results =  [[1.75, 0.15, 10, 0.2, 1.0]] 1825.17 198078 4659
+
+results =  [[0.95, 0.25, 10, 0.2, 0.2]] 1787.07 298274 6690
+
+results =  [[0.55, 0.35, 10, 0.2, 0.5]] 1767.71 248956 6507
+
+results =  [[0.95, 0.25, 10, 0.2, 0.7]] 1790.1 208348 4421
+
+results =  [[0.15, 0.45, 10, 0.2, 0.4]] 1732.2 457656 13729
+
+results =  [[0.55, 0.35, 10, 0.2, 0.9]] 1775.61 206874 4768
+
+results =  [[2.95, 0.15, 10, 0.2, 0.4]] 1817.8 247888 4191
+
+results =  [[3.35, 0.15, 10, 0.2, 0.5]] 1800.17 223888 4985
+
+results =  [[2.15, 0.15, 10, 0.2, 0.7]] 1815.71 201026 5773
+
+results =  [[0.15, 0.75, 10, 0.2, 0.3]] 1695.49 626780 15655
+
+results =  [[0.95, 0.25, 10, 0.2, 0.8]] 1796.96 205088 4295
+
+results =  [[0.95, 0.25, 10, 0.2, 0.1]] 1773.87 345026 7293
+
+results =  [[0.55, 0.25, 10, 0.2, 0.1]] 1744.97 443540 10416
+
+results =  [[0.55, 0.35, 10, 0.2, 0.4]] 1758.33 276042 6982
+
+results =  [[0.15, 0.25, 10, 0.2, 0.2]] 1734.2 585834 18038
+
+results =  [[0.15, 0.55, 10, 0.2, 0.6]] 1731.16 407246 11363
+
+results =  [[0.55, 0.35, 10, 0.2, 0.3]] 1758.16 309094 7510
+
+results =  [[2.55, 0.15, 10, 0.2, 0.4]] 1794.18 234876 4348
+
+results =  [[0.55, 0.35, 10, 0.2, 1.0]] 1794.53 197850 6534
+
+results =  [[2.15, 0.15, 10, 0.2, 0.5]] 1766.58 242466 4382
+
+results =  [[2.15, 0.15, 10, 0.2, 0.6]] 1800.43 234514 5091
+
+results =  [[0.95, 0.25, 10, 0.2, 1.0]] 1803.56 217806 3999
+
+results =  [[0.15, 0.75, 10, 0.2, 1.0]] 1715.89 334980 9501
+
+results =  [[2.15, 0.35, 10, 0.2, 0.9]] 1694.36 136548 5128
+
+results =  [[0.15, 0.25, 10, 0.2, 0.1]] 1714.15 694366 20415
+
+results =  [[0.15, 0.95, 10, 0.2, 0.7]] 1663.72 431524 11708
+
+results =  [[0.15, 0.45, 10, 0.2, 0.1]] 1689.93 798152 20344
+
+results =  [[2.15, 0.15, 10, 0.2, 1.0]] 1815.28 212140 4769
+
+results =  [[0.15, 0.75, 10, 0.2, 0.9]] 1712.93 364920 9983
+
+results =  [[0.15, 0.55, 10, 0.2, 0.5]] 1725.52 441274 12462
+
+results =  [[2.55, 0.15, 10, 0.2, 0.8]] 1814.41 201246 6814
+
+results =  [[2.95, 0.15, 10, 0.2, 1.0]] 1858.94 187638 4405
+
+results =  [[3.75, 0.25, 10, 0.2, 0.9]] 1748.26 129436 7448
+
+results =  [[0.15, 0.95, 10, 0.2, 0.4]] 1671.27 553670 14290
+
+results =  [[0.55, 0.45, 10, 0.2, 0.6]] 1756.08 206602 5747
+
+results =  [[2.95, 0.15, 10, 0.2, 0.6]] 1815.28 211232 4963
+
+results =  [[0.15, 0.55, 10, 0.2, 0.4]] 1723.26 495230 14053
+
+results =  [[0.15, 0.65, 10, 0.2, 0.6]] 1721.88 431028 11525
+
+results =  [[0.15, 0.85, 10, 0.2, 1.0]] 1701.74 332742 9424
+
+results =  [[0.55, 0.45, 10, 0.2, 0.9]] 1742.8 182300 4786
+
+results =  [[2.95, 0.15, 10, 0.2, 0.3]] 1789.5 250210 5491
+
+results =  [[0.15, 0.75, 10, 0.2, 0.8]] 1715.02 386974 10451
+
+results =  [[2.95, 0.15, 10, 0.2, 0.5]] 1798.0 224290 4027
+
+results =  [[0.55, 0.45, 10, 0.2, 0.7]] 1753.82 203784 5362
+
+results =  [[2.95, 0.15, 10, 0.2, 0.8]] 1825.0 196336 4575
+
+results =  [[0.55, 0.35, 10, 0.2, 0.2]] 1755.03 363038 8487
+
+results =  [[0.15, 0.85, 10, 0.2, 0.9]] 1692.45 371708 10235
+
+results =  [[2.15, 0.25, 10, 0.2, 0.9]] 1763.02 176772 4159
+
+results =  [[2.95, 0.15, 10, 0.2, 0.9]] 1817.97 200840 4497
+
+results =  [[2.95, 0.35, 10, 0.2, 1.0]] 1657.55 103222 5935
+
+results =  [[2.55, 0.25, 10, 0.2, 0.9]] 1777.17 160648 4575
+
+results =  [[0.15, 0.75, 10, 0.2, 0.7]] 1708.51 417480 11348
+
+results =  [[0.55, 0.45, 10, 0.2, 0.8]] 1756.6 195608 5037
+
+results =  [[0.55, 0.35, 10, 0.2, 0.1]] 1759.11 416882 9416
+
+results =  [[2.55, 0.25, 10, 0.2, 1.0]] 1768.06 156774 7480
+
+results =  [[2.55, 0.25, 10, 0.2, 0.6]] 1748.87 185000 3630
+
+results =  [[0.15, 0.55, 10, 0.2, 0.3]] 1707.38 588148 15742
+
+results =  [[0.55, 0.45, 10, 0.2, 0.5]] 1751.39 231758 6297
+
+results =  [[0.55, 0.45, 10, 0.2, 1.0]] 1760.24 187842 4438
+
+results =  [[0.15, 0.35, 10, 0.2, 0.1]] 1703.82 746278 20586
+
+results =  [[0.15, 0.45, 10, 0.2, 0.2]] 1703.82 676610 18399
+
+results =  [[0.15, 0.85, 10, 0.2, 0.8]] 1693.58 399576 10905
+
+results =  [[0.15, 0.95, 10, 0.2, 1.0]] 1669.79 340942 9773
+
+results =  [[0.55, 0.45, 10, 0.2, 0.4]] 1752.17 250234 6740
+
+results =  [[1.35, 0.25, 10, 0.2, 1.0]] 1771.79 191620 4402
+
+results =  [[1.35, 0.25, 10, 0.2, 0.6]] 1788.98 218830 4088
+
+results =  [[0.15, 1.05, 10, 0.2, 1.0]] 1635.85 334970 10058
+
+results =  [[1.75, 0.25, 10, 0.2, 0.1]] 1798.61 261966 6566
+
+results =  [[0.15, 0.95, 10, 0.2, 0.8]] 1666.23 396102 11100
+
+results =  [[0.55, 0.45, 10, 0.2, 0.3]] 1751.74 280412 7232
+
+results =  [[1.75, 0.25, 10, 0.2, 0.2]] 1772.14 245684 5053
+
+results =  [[0.15, 0.75, 10, 0.2, 0.5]] 1711.2 477496 12646
+
+results =  [[0.15, 0.95, 10, 0.2, 0.9]] 1672.14 369548 10587
+
+results =  [[0.55, 0.55, 10, 0.2, 0.8]] 1722.66 185326 5093
+
+results =  [[0.95, 0.35, 10, 0.2, 0.6]] 1769.44 197332 4444
+
+results =  [[2.95, 0.25, 10, 0.2, 0.2]] 1757.12 214772 4341
+
+results =  [[0.95, 0.35, 10, 0.2, 0.2]] 1772.48 260442 6252
+
+results =  [[0.15, 0.85, 10, 0.2, 0.7]] 1686.89 424252 11332
+
+results =  [[3.75, 0.25, 10, 0.2, 0.8]] 1745.14 144130 6339
+
+results =  [[0.55, 0.55, 10, 0.2, 0.9]] 1704.43 176256 4727
+
+results =  [[2.55, 0.25, 10, 0.2, 0.8]] 1754.51 170258 6043
+
+results =  [[0.95, 0.35, 10, 0.2, 0.8]] 1757.99 186754 4082
+
+results =  [[0.95, 0.75, 10, 0.2, 0.6]] 1458.33 125388 6130
+
+results =  [[2.15, 0.25, 10, 0.2, 0.2]] 1758.85 241368 5473
+
+results =  [[0.15, 1.05, 10, 0.2, 0.9]] 1635.85 369150 10758
+
+results =  [[2.15, 0.25, 10, 0.2, 0.1]] 1776.56 271824 5366
+
+results =  [[3.35, 0.15, 10, 0.2, 1.0]] 1818.84 195268 7683
+
+results =  [[0.95, 0.35, 10, 0.2, 0.7]] 1770.4 190968 4276
+
+results =  [[3.75, 0.25, 10, 0.2, 0.5]] 1736.46 164462 4673
+
+results =  [[0.15, 0.75, 10, 0.2, 0.4]] 1703.65 542318 14089
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[0.15, 0.85, 10, 0.2, 0.6]] 1690.97 458458 12120
+
+results =  [[2.95, 0.45, 10, 0.2, 0.9]] 1581.42 86278 6695
+
+results =  [[0.15, 0.55, 10, 0.2, 0.2]] 1702.26 706738 18205
+
+results =  [[2.95, 0.25, 10, 0.2, 0.7]] 1754.25 166464 6396
+
+results =  [[1.35, 0.45, 10, 0.2, 0.7]] 1669.88 142358 4291
+
+results =  [[0.15, 1.05, 10, 0.2, 0.8]] 1631.42 400896 11409
+
+results =  [[2.95, 0.25, 10, 0.2, 0.6]] 1762.07 172116 3568
+
+results =  [[2.55, 0.35, 10, 0.2, 1.0]] 1665.1 120040 7965
+
+results =  [[0.55, 0.55, 10, 0.2, 0.4]] 1721.61 228110 6630
+
+results =  [[0.55, 0.55, 10, 0.2, 0.7]] 1705.03 189616 5553
+
+results =  [[0.55, 0.55, 10, 0.2, 0.6]] 1716.41 198242 5815
+
+results =  [[0.15, 0.45, 10, 0.2, 0.6]] 1743.75 372700 11149
+
+results =  [[0.15, 0.55, 10, 0.2, 0.1]] 1681.94 783054 19371
+
+results =  [[2.55, 0.35, 10, 0.2, 0.9]] 1683.42 119130 6372
+
+results =  [[3.75, 0.25, 10, 0.2, 0.3]] 1749.31 180728 4749
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[3.35, 0.25, 10, 0.2, 0.6]] 1769.62 169220 6085
+
+results =  [[0.55, 0.55, 10, 0.2, 0.5]] 1716.67 208098 6257
+
+results =  [[2.55, 0.35, 10, 0.2, 0.8]] 1673.26 122618 4570
+
+results =  [[3.75, 0.25, 10, 0.2, 0.4]] 1744.44 171766 4702
+
+results =  [[1.75, 0.25, 10, 0.2, 0.5]] 1794.27 214514 3855
+
+results =  [[0.55, 0.65, 10, 0.2, 0.9]] 1668.49 156096 4956
+
+results =  [[0.15, 1.05, 10, 0.2, 0.7]] 1635.76 428972 11874
+
+results =  [[0.55, 0.85, 10, 0.2, 0.4]] 1464.15 204826 7893
+
+results =  [[0.55, 0.65, 10, 0.2, 0.8]] 1659.9 159892 5189
+
+results =  [[0.15, 0.95, 10, 0.2, 0.6]] 1665.28 457942 12429
+
+results =  [[1.75, 0.25, 10, 0.2, 0.4]] 1790.28 225502 4165
+
+results =  [[3.75, 0.45, 10, 0.2, 0.9]] 1617.53 71044 11858
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[0.55, 0.45, 10, 0.2, 0.1]] 1756.34 369512 8641
+
+results =  [[0.15, 0.55, 10, 0.2, 0.8]] 1737.24 360228 9868
+
+results =  [[2.15, 0.25, 10, 0.2, 0.3]] 1780.82 216350 5034
+
+results =  [[1.75, 0.25, 10, 0.2, 0.7]] 1787.85 198828 3576
+
+results =  [[1.75, 0.25, 10, 0.2, 0.9]] 1779.77 186658 3432
+
+results =  [[2.95, 0.35, 10, 0.2, 0.6]] 1630.3 123616 5858
+
+results =  [[1.75, 0.25, 10, 0.2, 0.6]] 1784.98 205650 3808
+
+results =  [[1.75, 0.25, 10, 0.2, 0.8]] 1763.19 192444 3653
+
+results =  [[2.15, 0.25, 10, 0.2, 0.7]] 1770.75 181522 4285
+
+results =  [[0.95, 0.45, 10, 0.2, 1.0]] 1684.55 154880 3802
+
+results =  [[0.15, 0.95, 10, 0.2, 0.5]] 1666.75 497630 13133
+
+results =  [[1.75, 0.25, 10, 0.2, 1.0]] 1787.24 183498 5647
+
+results =  [[0.15, 0.75, 10, 0.2, 0.2]] 1682.03 734296 17589
+
+results =  [[0.55, 0.55, 10, 0.2, 0.3]] 1725.09 253682 7244
+
+results =  [[0.15, 0.85, 10, 0.2, 0.4]] 1690.45 546716 14186
+
+results =  [[0.15, 1.05, 10, 0.2, 0.6]] 1636.11 465950 12531
+
+results =  [[3.35, 0.25, 10, 0.2, 0.2]] 1758.94 202516 5196
+
+results =  [[3.35, 0.35, 10, 0.2, 0.7]] 1635.68 113388 7636
+
+results =  [[2.95, 0.25, 10, 0.2, 0.9]] 1738.8 148698 6212
+
+results =  [[0.15, 0.15, 10, 0.2, 0.1]] 1737.07 637434 19561
+
+results =  [[0.15, 0.65, 10, 0.2, 0.1]] 1681.16 773930 18759
+
+results =  [[2.15, 0.25, 10, 0.2, 0.6]] 1770.31 194846 3570
+
+results =  [[0.55, 0.65, 10, 0.2, 0.7]] 1658.59 170526 5764
+
+results =  [[2.15, 0.45, 10, 0.2, 0.9]] 1604.43 107906 7285
+
+results =  [[0.55, 0.75, 10, 0.2, 0.9]] 1607.9 138928 5092
+
+results =  [[0.55, 0.95, 10, 0.2, 1.0]] 1567.45 115498 5353
+
+results =  [[0.15, 0.85, 10, 0.2, 0.3]] 1686.72 635860 15692
+
+results =  [[0.55, 0.75, 10, 0.2, 0.7]] 1622.48 153042 5794
+
+results =  [[0.55, 0.65, 10, 0.2, 0.6]] 1662.24 178360 6035
+
+results =  [[0.95, 0.45, 10, 0.2, 0.8]] 1700.95 167432 4035
+
+results =  [[1.35, 0.65, 10, 0.2, 0.4]] 1376.91 129162 6573
+
+results =  [[3.35, 0.25, 10, 0.2, 0.1]] 1771.01 229252 5811
+
+results =  [[0.55, 0.15, 10, 0.2, 0.9]] 1823.7 217994 5303
+
+results =  [[0.55, 0.55, 10, 0.2, 0.2]] 1712.93 294282 8001
+
+results =  [[0.15, 0.65, 10, 0.2, 0.7]] 1725.87 401748 10844
+
+results =  [[0.15, 0.15, 10, 0.2, 0.4]] 1797.05 310680 10440
+
+results =  [[0.55, 0.65, 10, 0.2, 0.5]] 1671.44 186806 6237
+
+results =  [[0.55, 0.95, 10, 0.2, 0.9]] 1549.57 119380 6152
+
+results =  [[2.15, 0.25, 10, 0.2, 0.8]] 1790.02 185888 3430
+
+results =  [[1.35, 0.35, 10, 0.2, 1.0]] 1729.25 166828 3926
+
+results =  [[0.55, 0.85, 10, 0.2, 0.8]] 1545.31 135140 5749
+
+results =  [[1.35, 0.35, 10, 0.2, 0.9]] 1722.05 168122 3661
+
+results =  [[1.35, 0.85, 10, 0.2, 1.0]] 1604.86 74790 11983
+
+results =  [[2.95, 0.55, 10, 0.2, 1.0]] 1661.98 65812 16329
+
+results =  [[0.15, 0.95, 10, 0.2, 0.3]] 1660.16 637322 15654
+
+results =  [[2.55, 0.35, 10, 0.2, 0.4]] 1688.89 146556 6178
+
+results =  [[0.55, 0.65, 10, 0.2, 0.4]] 1675.61 209760 6958
+
+results =  [[2.55, 0.35, 10, 0.2, 0.2]] 1687.85 171318 4908
+
+results =  [[1.75, 0.35, 10, 0.2, 0.9]] 1714.32 148606 3515
+
+results =  [[3.75, 0.35, 10, 0.2, 0.5]] 1602.86 116866 6873
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[0.15, 1.05, 10, 0.2, 0.5]] 1640.71 509432 13492
+
+results =  [[0.55, 0.55, 10, 0.2, 0.1]] 1707.9 335358 8641
+
+results =  [[3.35, 0.25, 10, 0.2, 1.0]] 1746.96 139648 7126
+
+results =  [[2.55, 0.35, 10, 0.2, 0.5]] 1682.29 136886 5060
+
+results =  [[0.55, 0.15, 10, 0.2, 0.7]] 1804.51 232324 6002
+
+results =  [[3.35, 0.35, 10, 0.2, 1.0]] 1623.7 99112 6952
+
+results =  [[2.55, 0.45, 10, 0.2, 0.7]] 1549.65 108134 5198
+
+results =  [[0.15, 0.95, 10, 0.2, 0.2]] 1661.72 707760 16897
+
+results =  [[1.35, 0.45, 10, 0.2, 0.9]] 1658.33 134996 4817
+
+results =  [[0.15, 1.05, 10, 0.2, 0.4]] 1634.98 555240 14303
+
+results =  [[1.35, 0.45, 10, 0.2, 1.0]] 1664.76 128070 4607
+
+results =  [[3.35, 0.25, 10, 0.2, 0.9]] 1753.73 147646 5904
+
+results =  [[3.35, 0.35, 10, 0.2, 0.3]] 1641.84 136892 5682
+
+results =  [[0.55, 0.75, 10, 0.2, 0.6]] 1612.33 167258 6098
+
+results =  [[0.15, 0.95, 10, 0.2, 0.1]] 1665.89 765258 17776
+
+results =  [[1.75, 0.35, 10, 0.2, 0.6]] 1725.09 157106 3942
+
+results =  [[1.75, 0.35, 10, 0.2, 0.8]] 1712.67 148490 3512
+
+results =  [[0.55, 1.05, 10, 0.2, 0.9]] 1543.49 119132 5994
+
+results =  [[0.95, 0.15, 10, 0.2, 1.0]] 1815.97 204976 4566
+
+results =  [[2.95, 0.35, 10, 0.2, 0.5]] 1674.57 129942 6014
+
+results =  [[0.15, 1.05, 10, 0.2, 0.3]] 1631.42 632406 15699
+
+results =  [[3.35, 0.45, 10, 0.2, 0.7]] 1518.06 89918 6474
+
+results =  [[1.75, 0.35, 10, 0.2, 1.0]] 1717.88 146174 5677
+
+results =  [[0.95, 1.05, 10, 0.2, 1.0]] 1627.34 82618 14039
+
+results =  [[0.15, 0.85, 10, 0.2, 0.1]] 1668.06 774930 17973
+
+results =  [[2.15, 0.45, 10, 0.2, 1.0]] 1613.54 101476 6329
+
+results =  [[0.55, 0.65, 10, 0.2, 0.3]] 1660.42 242104 7472
+
+results =  [[3.35, 0.35, 10, 0.2, 0.4]] 1642.71 129226 6407
+
+results =  [[0.95, 0.45, 10, 0.2, 0.3]] 1718.23 208386 5670
+
+results =  [[1.75, 0.35, 10, 0.2, 0.5]] 1728.39 168418 4097
+
+results =  [[0.15, 1.05, 10, 0.2, 0.2]] 1637.15 704950 16926
+
+results =  [[2.55, 0.45, 10, 0.2, 0.6]] 1539.93 111302 5375
+
+results =  [[3.35, 0.25, 10, 0.2, 0.7]] 1737.15 155170 5975
+
+results =  [[0.55, 0.75, 10, 0.2, 0.5]] 1597.14 186270 6648
+
+results =  [[2.55, 0.45, 10, 0.2, 0.9]] 1573.7 92364 7056
+
+results =  [[1.35, 0.45, 10, 0.2, 0.8]] 1675.78 141072 5042
+
+results =  [[1.75, 0.35, 10, 0.2, 0.4]] 1719.88 177190 4337
+
+results =  [[0.55, 0.85, 10, 0.2, 0.7]] 1518.23 150250 6261
+
+results =  [[2.15, 0.45, 10, 0.2, 0.7]] 1575.52 116908 5669
+
+results =  [[2.95, 0.45, 10, 0.2, 0.6]] 1530.64 102966 5605
+
+results =  [[2.15, 0.35, 10, 0.2, 0.5]] 1705.12 152898 4208
+
+results =  [[2.55, 0.45, 10, 0.2, 1.0]] 1580.03 96416 5977
+
+results =  [[0.55, 0.25, 10, 0.2, 0.6]] 1786.28 251918 6169
+
+results =  [[3.35, 0.45, 10, 0.2, 1.0]] 1634.55 76392 11362
+
+results =  [[2.95, 0.35, 10, 0.2, 0.9]] 1653.21 112120 8063
+
+results =  [[1.75, 0.35, 10, 0.2, 0.3]] 1728.21 188536 4585
+
+results =  [[0.15, 1.05, 10, 0.2, 0.1]] 1634.98 751528 17352
+
+results =  [[1.75, 0.45, 10, 0.2, 0.9]] 1620.4 118458 6803
+
+results =  [[2.15, 0.35, 10, 0.2, 0.1]] 1721.88 218660 5288
+
+results =  [[2.95, 0.35, 10, 0.2, 0.3]] 1663.45 146564 4757
+
+results =  [[3.75, 0.55, 10, 0.2, 1.0]] 1723.44 48818 26957
+
+results =  [[1.75, 0.45, 10, 0.2, 1.0]] 1646.88 114204 7970
+
+results =  [[3.35, 0.15, 10, 0.2, 0.8]] 1824.13 200722 3482
+
+results =  [[2.95, 0.45, 10, 0.2, 0.7]] 1550.95 97764 5602
+
+results =  [[0.55, 0.85, 10, 0.2, 0.6]] 1512.5 159336 6351
+
+results =  [[0.55, 0.75, 10, 0.2, 0.4]] 1588.28 204846 6972
+
+results =  [[2.55, 0.35, 10, 0.2, 0.7]] 1675.26 128564 4713
+
+results =  [[1.75, 0.35, 10, 0.2, 0.2]] 1743.66 204204 4922
+
+results =  [[2.15, 0.35, 10, 0.2, 0.4]] 1708.77 161028 4282
+
+results =  [[3.75, 0.45, 10, 0.2, 0.6]] 1503.82 87418 8302
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.15, 0.35, 10, 0.2, 0.3]] 1709.38 169650 4451
+
+results =  [[1.75, 0.45, 10, 0.2, 0.8]] 1627.34 121216 5783
+
+results =  [[0.15, 0.75, 10, 0.2, 0.6]] 1705.73 448164 11791
+
+results =  [[3.35, 0.55, 10, 0.2, 1.0]] 1669.36 58056 24675
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.95, 0.95, 10, 0.2, 1.0]] 1844.97 25132 33238
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.15, 0.55, 10, 0.2, 1.0]] 1607.55 86012 9151
+
+results =  [[2.55, 0.45, 10, 0.2, 0.5]] 1527.69 119146 5100
+
+results =  [[3.35, 0.55, 10, 0.2, 0.9]] 1665.36 58496 25023
+
+results =  [[3.35, 0.35, 10, 0.2, 0.8]] 1636.28 111364 9160
+
+results =  [[3.35, 0.45, 10, 0.2, 0.6]] 1502.08 95050 7002
+
+results =  [[1.35, 0.65, 10, 0.2, 0.6]] 1452.43 114972 6003
+
+results =  [[2.95, 0.65, 10, 0.2, 0.8]] 1595.66 57276 19841
+
+results =  [[1.35, 0.55, 10, 0.2, 0.8]] 1575.69 116304 4670
+
+results =  [[1.75, 0.55, 10, 0.2, 1.0]] 1572.22 98488 5934
+
+results =  [[0.55, 0.65, 10, 0.2, 0.2]] 1626.91 281814 8150
+searchABCDnolugg.py:220: RuntimeWarning: invalid value encountered in sqrt
+  b = 0.5*np.sqrt((dij + np.linalg.norm(xdij - velocities[j]*Dt))**2 - (np.linalg.norm(velocities[j])*Dt)**2)
+Traceback (most recent call last):
+  File "searchABCDnolugg.py", line 413, in <module>
+    top5, minErr, minPed, minWalls = grid_search(iterations)
+  File "searchABCDnolugg.py", line 397, in grid_search
+    total_overlaps, walls_overlaps, ped_left, dens = main_loop(a, b, c, d, kn, kt, room_width, room_height, door_width, exit_doorx,exit_doory, num_pedestrians, num_iterations, dt, deleted, tau, m, v0, L, positions, wallsy, wallsx, velocities, r, iterations)
+  File "searchABCDnolugg.py", line 266, in main_loop
+    forces = model(A, B, C, D, kn, kt, room_width, room_height, door_width, exit_doorx,
+  File "searchABCDnolugg.py", line 187, in social_force_vadere
+    eikDir = getGrad(positions, deleted, tt)
+  File "searchABCDnolugg.py", line 81, in getGrad
+    x = int((position[0]+8)/resol)
+ValueError: cannot convert float NaN to integer
+srun: error: lm3-w041: task 0: Exited with exit code 1
+
+results =  [[0.55, 1.05, 10, 0.2, 0.7]] 1484.9 137530 6763
+
+results =  [[1.35, 0.55, 10, 0.2, 0.7]] 1582.47 124770 4872
+
+results =  [[1.75, 0.55, 10, 0.2, 0.9]] 1551.3 103124 5954
+
+results =  [[1.35, 0.65, 10, 0.2, 1.0]] 1539.32 99770 6023
+
+results =  [[1.75, 0.45, 10, 0.2, 0.7]] 1616.32 126872 4485
+
+results =  [[0.55, 0.85, 10, 0.2, 0.5]] 1497.4 176286 6977
+
+results =  [[0.55, 0.95, 10, 0.2, 0.6]] 1446.01 152200 6768
+
+results =  [[1.35, 0.75, 10, 0.2, 1.0]] 1559.2 83338 8752
+
+results =  [[2.15, 0.75, 10, 0.2, 1.0]] 1676.13 55134 25472
+
+results =  [[0.15, 0.85, 10, 0.2, 0.2]] 1674.65 727018 17229
+
+results =  [[2.55, 0.55, 10, 0.2, 1.0]] 1625.09 75696 11402
+
+results =  [[2.15, 0.65, 10, 0.2, 0.8]] 1496.18 78636 11645
+
+results =  [[0.55, 0.75, 10, 0.2, 0.3]] 1575.26 233760 7719
+
+results =  [[0.55, 0.65, 10, 0.2, 0.1]] 1619.7 328174 8741
+
+results =  [[1.75, 0.35, 10, 0.2, 0.1]] 1736.02 239388 5414
+
+results =  [[2.15, 0.35, 10, 0.2, 0.7]] 1703.04 139530 5584
+
+results =  [[2.55, 0.45, 10, 0.2, 0.8]] 1560.94 101926 6138
+
+results =  [[2.95, 0.65, 10, 0.2, 0.9]] 1668.23 51756 20697
+
+results =  [[1.75, 0.45, 10, 0.2, 0.6]] 1622.83 133496 4795
+
+results =  [[0.95, 0.65, 10, 0.2, 0.7]] 1562.85 128474 5189
+
+results =  [[0.15, 0.65, 10, 0.2, 0.3]] 1706.94 605648 15653
+
+results =  [[1.75, 0.15, 10, 0.2, 0.7]] 1810.07 213742 4266
+
+results =  [[3.35, 0.35, 10, 0.2, 0.2]] 1637.15 153866 5079
+
+results =  [[3.35, 0.45, 10, 0.2, 0.5]] 1444.62 100998 5326
+
+results =  [[2.55, 0.55, 10, 0.2, 0.9]] 1581.77 76772 8581
+
+results =  [[1.35, 0.55, 10, 0.2, 0.5]] 1571.53 132306 5197
+
+results =  [[1.75, 0.75, 10, 0.2, 0.8]] 1517.45 77408 10809
+
+results =  [[1.35, 0.45, 10, 0.2, 0.2]] 1669.88 199430 5794
+
+results =  [[1.75, 0.45, 10, 0.2, 0.5]] 1640.1 138524 5007
+
+results =  [[0.15, 0.65, 10, 0.2, 0.4]] 1714.41 521790 13935
+
+results =  [[1.35, 0.65, 10, 0.2, 0.9]] 1517.1 109356 5359
+
+results =  [[3.35, 0.35, 10, 0.2, 0.5]] 1625.26 126578 5160
+
+results =  [[0.95, 0.55, 10, 0.2, 0.3]] 1636.89 187934 6058
+
+results =  [[1.75, 0.45, 10, 0.2, 0.4]] 1662.41 141984 4875
+
+results =  [[1.35, 0.75, 10, 0.2, 0.9]] 1503.13 88830 6913
+
+results =  [[3.35, 0.65, 10, 0.2, 0.8]] 1614.32 50616 25400
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.95, 0.45, 10, 0.2, 0.5]] 1507.38 107294 5883
+
+results =  [[2.15, 0.75, 10, 0.2, 0.8]] 1567.01 64968 17541
+
+results =  [[2.15, 0.55, 10, 0.2, 0.8]] 1495.75 97372 5074
+
+results =  [[1.75, 0.55, 10, 0.2, 0.8]] 1495.92 113244 5142
+
+results =  [[1.35, 0.85, 10, 0.2, 0.9]] 1568.58 78830 10052
+
+results =  [[0.55, 1.05, 10, 0.2, 0.6]] 1431.25 154962 7305
+
+results =  [[1.75, 0.85, 10, 0.2, 0.9]] 1633.42 62028 23582
+
+results =  [[2.15, 0.65, 10, 0.2, 0.7]] 1440.97 85692 8520
+
+results =  [[0.95, 0.35, 10, 0.2, 1.0]] 1758.42 178834 3812
+
+results =  [[1.75, 0.65, 10, 0.2, 0.9]] 1498.96 89554 6931
+
+results =  [[2.55, 0.75, 10, 0.2, 1.0]] 1732.03 44996 30620
+
+results =  [[2.15, 0.45, 10, 0.2, 0.6]] 1551.65 126666 4636
+
+results =  [[2.55, 0.65, 10, 0.2, 1.0]] 1675.0 57502 21771
+
+results =  [[1.75, 0.45, 10, 0.2, 0.3]] 1644.62 152128 5273
+
+results =  [[2.55, 0.55, 10, 0.2, 0.8]] 1516.49 84760 8685
+
+results =  [[1.35, 0.75, 10, 0.2, 0.8]] 1466.58 92498 6230
+
+results =  [[2.95, 0.55, 10, 0.2, 0.8]] 1552.43 74294 8304
+
+results =  [[0.95, 0.55, 10, 0.2, 0.1]] 1594.1 259232 7071
+
+results =  [[3.35, 0.55, 10, 0.2, 0.6]] 1393.32 78082 8261
+
+results =  [[3.35, 0.75, 10, 0.2, 1.0]] 1800.26 33118 34600
+
+results =  [[2.95, 0.45, 10, 0.2, 0.4]] 1463.54 117526 5501
+
+results =  [[1.75, 0.55, 10, 0.2, 0.7]] 1503.56 112406 5221
+
+results =  [[1.75, 0.65, 10, 0.2, 0.8]] 1462.5 94418 6084
+
+results =  [[0.55, 0.75, 10, 0.2, 1.0]] 1611.46 131712 4802
+
+results =  [[2.55, 0.15, 10, 0.2, 0.9]] 1827.17 211202 6684
+
+results =  [[1.75, 0.85, 10, 0.2, 1.0]] 1687.41 56546 24179
+
+results =  [[1.35, 0.85, 10, 0.2, 0.8]] 1516.84 83212 10726
+
+results =  [[0.55, 0.75, 10, 0.2, 0.2]] 1525.52 270724 8371
+
+results =  [[1.35, 0.45, 10, 0.2, 0.1]] 1670.23 235698 6192
+
+results =  [[2.15, 0.45, 10, 0.2, 0.5]] 1576.04 131010 4912
+
+results =  [[1.35, 0.75, 10, 0.2, 0.7]] 1432.64 97220 7363
+
+results =  [[2.95, 0.35, 10, 0.2, 0.1]] 1654.77 202818 5193
+
+results =  [[0.55, 1.05, 10, 0.2, 0.5]] 1365.28 174050 8026
+
+results =  [[1.35, 0.25, 10, 0.2, 0.8]] 1792.97 204328 5870
+
+results =  [[1.75, 0.55, 10, 0.2, 0.6]] 1503.47 121458 6148
+
+results =  [[1.35, 0.25, 10, 0.2, 0.7]] 1783.94 215534 4051
+
+results =  [[1.75, 0.85, 10, 0.2, 0.6]] 1384.38 85794 13211
+
+results =  [[2.15, 0.55, 10, 0.2, 0.5]] 1401.3 111572 6150
+
+results =  [[2.95, 0.55, 10, 0.2, 0.7]] 1476.04 78876 9641
+
+results =  [[2.55, 0.65, 10, 0.2, 0.9]] 1644.36 62382 19635
+
+results =  [[2.95, 0.75, 10, 0.2, 0.8]] 1664.58 41718 30840
+
+results =  [[2.15, 0.55, 10, 0.2, 0.4]] 1346.27 115850 6413
+
+results =  [[2.15, 0.85, 10, 0.2, 1.0]] 1756.51 44328 35499
+
+results =  [[1.75, 0.25, 10, 0.2, 0.3]] 1774.31 228364 4610
+
+results =  [[2.15, 0.65, 10, 0.2, 0.6]] 1365.97 90938 8659
+
+results =  [[3.35, 0.75, 10, 0.2, 0.9]] 1757.73 34298 38745
+
+results =  [[1.75, 0.45, 10, 0.2, 0.2]] 1614.76 177460 5843
+
+results =  [[2.95, 0.65, 10, 0.2, 0.7]] 1503.39 64322 16652
+
+results =  [[1.75, 0.55, 10, 0.2, 0.5]] 1474.65 122924 5641
+
+results =  [[1.35, 0.95, 10, 0.2, 0.8]] 1559.72 74926 16229
+
+results =  [[2.55, 0.45, 10, 0.2, 0.2]] 1465.71 147236 5961
+
+results =  [[0.55, 0.75, 10, 0.2, 0.1]] 1466.49 321378 8919
+
+results =  [[2.55, 0.65, 10, 0.2, 0.8]] 1563.72 67346 14716
+
+results =  [[2.15, 0.75, 10, 0.2, 0.7]] 1482.12 72502 13686
+
+results =  [[0.95, 0.65, 10, 0.2, 0.3]] 1495.4 180158 7146
+
+results =  [[2.15, 0.95, 10, 0.2, 1.0]] 1773.52 41622 40345
+
+results =  [[3.75, 0.35, 10, 0.2, 0.6]] 1616.06 109688 7706
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.55, 0.85, 10, 0.2, 1.0]] 1782.73 37064 41632
+
+results =  [[1.35, 0.85, 10, 0.2, 0.7]] 1468.92 87548 8876
+
+results =  [[1.35, 1.05, 10, 0.2, 0.9]] 1658.07 64362 24031
+
+results =  [[2.55, 0.55, 10, 0.2, 0.6]] 1377.78 96120 6244
+
+results =  [[3.75, 0.45, 10, 0.2, 0.3]] 1282.29 110526 6246
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[1.35, 0.65, 10, 0.2, 0.5]] 1405.56 124390 6170
+
+results =  [[2.95, 0.85, 10, 0.2, 0.9]] 1778.91 31124 39421
+
+results =  [[0.55, 0.85, 10, 0.2, 0.2]] 1339.41 273672 9153
+
+results =  [[2.55, 0.95, 10, 0.2, 1.0]] 1797.22 30586 36878
+
+results =  [[1.35, 0.75, 10, 0.2, 0.5]] 1295.4 113494 7618
+
+results =  [[3.35, 0.55, 10, 0.2, 0.5]] 1269.7 85070 8203
+
+results =  [[1.75, 0.35, 10, 0.2, 0.7]] 1713.19 151166 3708
+
+results =  [[0.95, 1.05, 10, 0.2, 0.7]] 1488.37 101770 10436
+
+results =  [[3.75, 0.65, 10, 0.2, 0.7]] 1574.83 49608 25221
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[0.55, 1.05, 10, 0.2, 0.4]] 1281.77 200282 9173
+
+results =  [[1.75, 0.85, 10, 0.2, 0.8]] 1569.97 64902 18838
+
+results =  [[1.35, 0.35, 10, 0.2, 0.7]] 1727.17 175372 3960
+
+results =  [[1.35, 0.35, 10, 0.2, 0.8]] 1717.19 169690 3730
+
+results =  [[3.35, 0.35, 10, 0.2, 0.6]] 1627.34 117410 5670
+
+results =  [[1.35, 1.05, 10, 0.2, 1.0]] 1719.7 57240 30986
+
+results =  [[1.75, 0.55, 10, 0.2, 0.4]] 1464.41 126568 6470
+
+results =  [[1.75, 0.65, 10, 0.2, 1.0]] 1591.06 81372 8398
+
+results =  [[3.75, 0.95, 10, 0.2, 1.0]] 1865.45 18296 34888
+
+results =  [[2.55, 0.65, 10, 0.2, 0.7]] 1471.53 72666 13479
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[3.75, 0.75, 10, 0.2, 1.0]] 1821.44 28514 38568
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[1.75, 0.45, 10, 0.2, 0.1]] 1589.58 215550 6031
+
+results =  [[0.55, 0.95, 10, 0.2, 0.1]] 1051.13 322424 10225
+
+results =  [[3.35, 0.75, 10, 0.2, 0.7]] 1628.39 42742 33836
+
+results =  [[2.15, 0.45, 10, 0.2, 0.2]] 1545.92 157864 5878
+
+results =  [[2.95, 0.75, 10, 0.2, 1.0]] 1764.93 37024 36200
+
+results =  [[2.55, 0.95, 10, 0.2, 0.9]] 1774.74 33488 40224
+
+results =  [[1.75, 1.05, 10, 0.2, 0.7]] 1601.04 60252 32824
+
+results =  [[1.75, 0.65, 10, 0.2, 0.6]] 1365.89 103082 6645
+
+results =  [[3.75, 0.65, 10, 0.2, 0.6]] 1446.7 56580 16942
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[1.35, 1.05, 10, 0.2, 0.8]] 1616.58 69986 20783
+
+results =  [[1.75, 1.05, 10, 0.2, 0.8]] 1684.29 51874 35927
+
+results =  [[3.35, 0.65, 10, 0.2, 0.6]] 1416.84 63640 16919
+
+results =  [[1.35, 0.85, 10, 0.2, 0.6]] 1386.28 97500 9338
+
+results =  [[3.35, 0.85, 10, 0.2, 0.9]] 1801.22 26472 39557
+
+results =  [[2.55, 0.75, 10, 0.2, 0.5]] 1261.98 77626 15778
+
+results =  [[2.95, 0.85, 10, 0.2, 0.8]] 1736.81 34516 37825
+
+results =  [[1.75, 1.05, 10, 0.2, 1.0]] 1776.04 43558 40760
+
+results =  [[3.35, 0.85, 10, 0.2, 0.8]] 1743.4 29692 41501
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[3.35, 0.25, 10, 0.2, 0.4]] 1771.88 179310 4571
+
+results =  [[2.15, 0.85, 10, 0.2, 0.8]] 1607.03 55644 27368
+
+results =  [[3.75, 0.85, 10, 0.2, 0.9]] 1809.2 23284 35297
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[1.75, 0.55, 10, 0.2, 0.3]] 1426.65 137634 6264
+
+results =  [[2.15, 0.65, 10, 0.2, 0.5]] 1259.98 98162 7824
+
+results =  [[2.15, 0.85, 10, 0.2, 0.6]] 1430.56 69244 20686
+
+results =  [[2.95, 0.55, 10, 0.2, 0.5]] 1277.08 92942 7883
+
+results =  [[1.75, 0.65, 10, 0.2, 0.5]] 1323.78 107354 6958
+
+results =  [[1.75, 0.95, 10, 0.2, 0.9]] 1692.97 53506 32645
+
+results =  [[2.15, 0.65, 10, 0.2, 0.4]] 1162.85 106340 8274
+
+results =  [[3.75, 0.55, 10, 0.2, 0.4]] 1142.27 87692 9119
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[3.35, 0.45, 10, 0.2, 0.3]] 1340.8 116682 6102
+
+results =  [[0.55, 0.95, 10, 0.2, 0.2]] 1154.95 274226 9680
+
+results =  [[2.95, 0.65, 10, 0.2, 0.6]] 1409.38 69058 14249
+
+results =  [[2.15, 0.95, 10, 0.2, 0.8]] 1698.09 44282 34691
+
+results =  [[3.35, 0.85, 10, 0.2, 0.7]] 1676.04 33724 42007
+
+results =  [[3.35, 0.95, 10, 0.2, 0.9]] 1834.72 21072 39422
+
+results =  [[0.55, 0.85, 10, 0.2, 0.1]] 1280.56 319314 9382
+
+results =  [[3.75, 0.65, 10, 0.2, 0.5]] 1310.94 60692 15708
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.55, 0.55, 10, 0.2, 0.4]] 1260.59 109320 6738
+
+results =  [[1.75, 0.55, 10, 0.2, 0.2]] 1332.29 159834 6998
+
+results =  [[3.75, 0.85, 10, 0.2, 0.8]] 1778.39 25968 42016
+
+results =  [[2.95, 0.75, 10, 0.2, 0.7]] 1563.98 51438 25844
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[1.75, 0.95, 10, 0.2, 0.7]] 1528.3 67140 20668
+
+results =  [[2.15, 0.45, 10, 0.2, 0.1]] 1488.19 202792 6095
+
+results =  [[1.35, 0.45, 10, 0.2, 0.3]] 1693.58 174258 5348
+
+results =  [[2.15, 0.95, 10, 0.2, 0.9]] 1751.04 44124 38925
+
+results =  [[3.75, 0.75, 10, 0.2, 0.7]] 1625.78 38382 36333
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.15, 0.75, 10, 0.2, 0.6]] 1371.18 79434 13632
+
+results =  [[0.55, 1.05, 10, 0.2, 0.3]] 1166.75 235682 9956
+
+results =  [[2.55, 0.95, 10, 0.2, 0.8]] 1718.4 36842 41238
+
+results =  [[1.35, 0.75, 10, 0.2, 0.4]] 1208.42 123050 8197
+
+results =  [[1.35, 0.85, 10, 0.2, 0.5]] 1287.5 110638 9251
+
+results =  [[2.15, 1.05, 10, 0.2, 0.8]] 1720.31 40142 33490
+
+results =  [[2.55, 0.75, 10, 0.2, 0.6]] 1428.04 67404 20314
+
+results =  [[1.35, 1.05, 10, 0.2, 0.6]] 1463.37 92534 17689
+
+results =  [[1.75, 0.65, 10, 0.2, 0.4]] 1234.37 115734 7245
+
+results =  [[0.95, 1.05, 10, 0.2, 0.4]] 1212.59 155612 11621
+
+results =  [[2.15, 0.95, 10, 0.2, 0.7]] 1577.08 53404 30143
+
+results =  [[2.95, 0.45, 10, 0.2, 0.1]] 1232.47 183432 6444
+
+results =  [[2.55, 0.65, 10, 0.2, 0.5]] 1246.79 90436 9301
+
+results =  [[2.55, 0.55, 10, 0.2, 0.3]] 1165.19 115140 7254
+
+results =  [[0.95, 1.05, 10, 0.2, 0.5]] 1323.44 132156 10623
+
+results =  [[3.35, 0.45, 10, 0.2, 0.2]] 1253.39 131898 6294
+
+results =  [[3.75, 0.85, 10, 0.2, 0.7]] 1680.21 31004 38876
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[1.75, 0.75, 10, 0.2, 0.5]] 1263.45 101178 9577
+
+results =  [[2.95, 0.95, 10, 0.2, 0.7]] 1694.88 36014 41443
+
+results =  [[2.95, 1.05, 10, 0.2, 1.0]] 1873.78 22556 33351
+
+results =  [[2.55, 1.05, 10, 0.2, 1.0]] 1841.15 29422 35514
+
+results =  [[0.55, 1.05, 10, 0.2, 0.2]] 1013.11 283368 10797
+
+results =  [[2.15, 1.05, 10, 0.2, 0.7]] 1659.29 48242 35652
+
+results =  [[1.35, 0.85, 10, 0.2, 0.4]] 1166.32 121832 9830
+
+results =  [[3.35, 0.55, 10, 0.2, 0.3]] 1013.11 98894 8267
+
+results =  [[3.75, 0.95, 10, 0.2, 0.9]] 1847.4 18512 35825
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[1.35, 0.95, 10, 0.2, 0.5]] 1302.26 111830 11780
+
+results =  [[2.55, 0.65, 10, 0.2, 0.4]] 1132.12 95830 9553
+
+results =  [[2.95, 0.65, 10, 0.2, 0.4]] 1133.42 86542 10945
+
+results =  [[1.75, 0.65, 10, 0.2, 0.3]] 1118.23 126634 7890
+
+results =  [[1.75, 1.05, 10, 0.2, 0.6]] 1507.47 75702 26259
+
+results =  [[1.75, 0.55, 10, 0.2, 0.1]] 1211.98 205278 7406
+
+results =  [[1.75, 0.95, 10, 0.2, 0.6]] 1433.68 81608 18829
+
+results =  [[1.75, 0.95, 10, 0.2, 0.5]] 1333.42 95846 17299
+
+results =  [[2.95, 0.85, 10, 0.2, 0.5]] 1369.1 63682 23601
+
+results =  [[3.35, 0.45, 10, 0.2, 0.1]] 1070.75 177516 6735
+
+results =  [[2.95, 0.55, 10, 0.2, 0.3]] 1067.36 104052 7657
+
+results =  [[1.35, 1.05, 10, 0.2, 0.5]] 1357.99 110788 14977
+
+results =  [[2.15, 0.95, 10, 0.2, 0.6]] 1475.87 65140 28352
+
+results =  [[1.75, 0.85, 10, 0.2, 0.5]] 1267.62 97680 12597
+
+results =  [[2.15, 0.95, 10, 0.2, 0.5]] 1383.94 79570 21561
+
+results =  [[0.55, 1.05, 10, 0.2, 0.1]] 890.54 326520 11157
+
+results =  [[2.55, 1.05, 10, 0.2, 0.7]] 1686.11 38936 42443
+
+results =  [[3.35, 0.65, 10, 0.2, 0.4]] 1125.09 79266 13236
+
+results =  [[2.95, 0.55, 10, 0.2, 0.2]] 870.83 123876 8322
+
+results =  [[3.35, 1.05, 10, 0.2, 0.8]] 1829.77 20842 36767
+
+results =  [[2.95, 0.85, 10, 0.2, 0.6]] 1500.17 50660 31234
+
+results =  [[3.35, 0.75, 10, 0.2, 0.5]] 1326.22 62034 21651
+
+results =  [[2.15, 0.65, 10, 0.2, 0.3]] 1023.0 115140 8467
+
+results =  [[2.55, 0.55, 10, 0.2, 0.2]] 978.73 134084 7882
+
+results =  [[3.35, 0.85, 10, 0.2, 0.6]] 1550.61 40802 33047
+
+results =  [[2.95, 1.05, 10, 0.2, 0.8]] 1795.49 24472 37757
+
+results =  [[1.35, 0.75, 10, 0.2, 0.6]] 1385.24 102238 6963
+
+results =  [[2.95, 1.05, 10, 0.2, 0.7]] 1737.24 31276 42933
+
+results =  [[0.55, 0.95, 10, 0.2, 0.4]] 1344.62 200618 8220
+
+results =  [[3.75, 0.95, 10, 0.2, 0.7]] 1742.01 23548 40151
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.55, 0.85, 10, 0.2, 0.5]] 1339.32 72558 23613
+
+results =  [[2.55, 0.65, 10, 0.2, 0.3]] 991.06 105092 9493
+
+results =  [[2.95, 0.75, 10, 0.2, 0.5]] 1272.57 69342 19566
+
+results =  [[1.75, 0.65, 10, 0.2, 0.2]] 939.76 152076 8767
+
+results =  [[2.15, 1.05, 10, 0.2, 0.6]] 1572.4 63608 33821
+
+results =  [[2.15, 0.75, 10, 0.2, 0.3]] 975.0 113598 11660
+
+results =  [[1.35, 0.95, 10, 0.2, 0.4]] 1186.98 125918 11844
+
+results =  [[2.15, 1.05, 10, 0.2, 1.0]] 1814.5 36080 39864
+
+results =  [[1.35, 0.65, 10, 0.2, 0.7]] 1471.09 112470 6090
+
+results =  [[1.35, 0.85, 10, 0.2, 0.3]] 1019.62 143226 10789
+
+results =  [[1.35, 0.75, 10, 0.2, 0.2]] 892.62 169710 9912
+
+results =  [[0.95, 0.85, 10, 0.2, 0.4]] 1236.11 141030 8333
+
+results =  [[0.95, 1.05, 10, 0.2, 0.2]] 1013.98 228238 14180
+
+results =  [[1.75, 0.75, 10, 0.2, 0.3]] 1005.64 127388 9958
+
+results =  [[3.75, 0.45, 10, 0.2, 0.1]] 898.61 162336 7009
+
+results =  [[3.75, 0.55, 10, 0.2, 0.2]] 800.52 102512 9840
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[3.75, 1.05, 10, 0.2, 0.7]] 1812.67 19670 38258
+
+results =  [[2.95, 0.65, 10, 0.2, 0.5]] 1263.54 79340 12215
+
+results =  [[2.95, 1.05, 10, 0.2, 0.6]] 1691.67 43350 45409
+
+results =  [[2.15, 0.85, 10, 0.2, 0.4]] 1182.29 99948 16308
+
+results =  [[3.35, 1.05, 10, 0.2, 0.6]] 1743.32 35436 43387
+
+results =  [[1.35, 0.65, 10, 0.2, 0.3]] 1306.34 145774 7308
+
+results =  [[3.35, 0.95, 10, 0.2, 0.5]] 1556.34 57514 35163
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.95, 0.95, 10, 0.2, 0.6]] 1576.56 46328 36006
+
+results =  [[3.75, 0.95, 10, 0.2, 0.6]] 1682.9 31376 42296
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[3.35, 0.55, 10, 0.2, 0.2]] 816.67 116578 8925
+
+results =  [[1.35, 0.95, 10, 0.2, 0.6]] 1403.39 95422 13266
+
+results =  [[3.75, 0.85, 10, 0.2, 0.5]] 1467.88 48008 29352
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.55, 1.05, 10, 0.2, 0.5]] 1587.41 73134 33019
+
+results =  [[1.35, 1.05, 10, 0.2, 0.4]] 1267.19 134860 14987
+
+results =  [[0.95, 0.95, 10, 0.2, 0.2]] 910.85 215600 12048
+
+results =  [[1.75, 1.05, 10, 0.2, 0.5]] 1424.91 94744 22599
+
+results =  [[2.55, 0.85, 10, 0.2, 0.7]] 1575.17 48406 30210
+
+results =  [[1.35, 0.95, 10, 0.2, 0.3]] 1083.51 155056 13297
+
+results =  [[1.35, 0.85, 10, 0.2, 0.2]] 883.94 175508 11998
+
+results =  [[1.75, 0.65, 10, 0.2, 0.1]] 704.51 192380 9513
+
+results =  [[3.75, 0.65, 10, 0.2, 0.3]] 993.66 84520 13252
+
+results =  [[2.55, 0.65, 10, 0.2, 0.2]] 811.02 121254 10516
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[3.35, 0.75, 10, 0.2, 0.4]] 1189.41 72492 19233
+
+results =  [[3.35, 0.85, 10, 0.2, 0.4]] 1354.25 72830 26974
+
+results =  [[2.15, 0.55, 10, 0.2, 0.1]] 961.81 185432 7894
+
+results =  [[3.35, 0.65, 10, 0.2, 0.3]] 976.91 90690 13589
+
+results =  [[0.95, 0.95, 10, 0.2, 0.4]] 1212.5 144690 9997
+
+results =  [[2.55, 0.75, 10, 0.2, 0.3]] 1017.36 106258 13590
+
+results =  [[1.75, 0.95, 10, 0.2, 0.4]] 1234.11 114804 14816
+
+results =  [[2.95, 0.65, 10, 0.2, 0.2]] 828.39 113544 11839
+
+results =  [[1.75, 0.85, 10, 0.2, 0.3]] 1032.81 131540 12780
+
+results =  [[1.75, 0.75, 10, 0.2, 0.2]] 826.13 153364 11143
+
+results =  [[2.55, 0.95, 10, 0.2, 0.4]] 1400.0 90564 24755
+
+results =  [[2.95, 1.05, 10, 0.2, 0.4]] 1600.78 81464 38041
+
+results =  [[0.95, 1.05, 10, 0.2, 0.1]] 975.78 273168 14797
+
+results =  [[1.35, 1.05, 10, 0.2, 0.3]] 1227.52 167156 16011
+
+results =  [[1.75, 1.05, 10, 0.2, 0.4]] 1373.52 124070 19844
+
+results =  [[2.95, 0.95, 10, 0.2, 0.4]] 1464.32 83084 33981
+
+results =  [[1.35, 0.65, 10, 0.2, 0.1]] 1017.36 215292 8590
+
+results =  [[3.35, 0.95, 10, 0.2, 0.4]] 1514.41 68276 36337
+
+results =  [[1.75, 0.95, 10, 0.2, 0.3]] 1187.07 139332 16883
+
+results =  [[2.15, 0.85, 10, 0.2, 0.3]] 1108.51 117984 16200
+
+results =  [[3.75, 0.85, 10, 0.2, 0.4]] 1404.95 63668 28598
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.95, 0.75, 10, 0.2, 0.3]] 1069.36 96232 15820
+
+results =  [[2.15, 0.75, 10, 0.2, 0.2]] 874.83 137694 12821
+
+results =  [[2.15, 0.65, 10, 0.2, 0.2]] 825.78 136750 9591
+
+results =  [[2.15, 0.95, 10, 0.2, 0.3]] 1289.67 130486 21871
+
+results =  [[3.75, 0.95, 10, 0.2, 0.4]] 1548.26 60470 33230
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[3.75, 1.05, 10, 0.2, 0.8]] 1850.78 17076 34013
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.95, 0.55, 10, 0.2, 0.1]] 602.6 153026 9033
+
+results =  [[1.35, 0.85, 10, 0.2, 0.1]] 769.1 218728 13354
+
+results =  [[2.55, 0.95, 10, 0.2, 0.3]] 1368.14 112342 30179
+
+results =  [[3.75, 1.05, 10, 0.2, 0.4]] 1685.5 57920 40407
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[1.75, 0.75, 10, 0.2, 0.1]] 719.62 186960 12163
+
+results =  [[2.55, 0.75, 10, 0.2, 0.2]] 952.08 126640 14807
+
+results =  [[2.15, 0.75, 10, 0.2, 0.1]] 804.95 169960 14122
+
+results =  [[2.95, 0.85, 10, 0.2, 0.3]] 1242.36 98818 23343
+
+results =  [[3.35, 0.75, 10, 0.2, 0.2]] 1038.98 104024 23252
+
+results =  [[2.95, 0.75, 10, 0.2, 0.2]] 1013.02 117710 19431
+
+results =  [[3.35, 0.95, 10, 0.2, 0.3]] 1423.0 85964 38265
+
+results =  [[2.95, 0.65, 10, 0.2, 0.1]] 669.62 142330 13253
+
+results =  [[3.75, 1.05, 10, 0.2, 0.6]] 1760.76 30514 36175
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[1.75, 1.05, 10, 0.2, 0.3]] 1379.43 148272 24560
+
+results =  [[1.35, 1.05, 10, 0.2, 0.2]] 1235.94 204028 17904
+
+results =  [[2.95, 0.95, 10, 0.2, 0.3]] 1401.13 99976 34065
+
+results =  [[1.75, 0.95, 10, 0.2, 0.2]] 1184.98 165504 18618
+
+results =  [[2.95, 1.05, 10, 0.2, 0.3]] 1516.67 95754 41004
+
+results =  [[1.35, 0.95, 10, 0.2, 0.1]] 1020.57 230404 15957
+
+results =  [[1.35, 1.05, 10, 0.2, 0.1]] 1177.78 241928 20070
+
+results =  [[2.15, 0.95, 10, 0.2, 0.2]] 1231.6 143106 25299
+
+results =  [[1.75, 0.85, 10, 0.2, 0.1]] 923.0 201600 15777
+
+results =  [[3.35, 0.65, 10, 0.2, 0.1]] 689.06 134724 16332
+
+results =  [[1.75, 1.05, 10, 0.2, 0.2]] 1325.87 170440 24599
+
+results =  [[3.35, 0.95, 10, 0.2, 0.2]] 1252.0 100276 34716
+
+results =  [[2.15, 0.65, 10, 0.2, 0.1]] 629.17 169306 10461
+
+results =  [[2.95, 0.85, 10, 0.2, 0.2]] 1143.75 113308 25704
+
+results =  [[2.55, 1.05, 10, 0.2, 0.2]] 1354.43 130790 39424
+
+results =  [[2.55, 0.85, 10, 0.2, 0.2]] 1121.79 131290 22938
+
+results =  [[3.75, 0.65, 10, 0.2, 0.1]] 647.31 123732 16650
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.15, 0.85, 10, 0.2, 0.1]] 920.23 172498 19692
+
+results =  [[3.75, 1.05, 10, 0.2, 0.2]] 1516.32 78640 39405
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[1.75, 0.95, 10, 0.2, 0.1]] 1040.19 205642 21281
+
+results =  [[2.55, 0.95, 10, 0.2, 0.2]] 1238.11 127354 31162
+
+results =  [[2.95, 0.75, 10, 0.2, 0.1]] 784.72 143536 22772
+
+results =  [[1.75, 1.05, 10, 0.2, 0.1]] 1124.31 209972 28813
+
+results =  [[2.95, 0.95, 10, 0.2, 0.2]] 1243.23 111528 34232
+
+results =  [[3.75, 0.75, 10, 0.2, 0.2]] 1043.4 92040 24350
+
+results =  [[2.15, 1.05, 10, 0.2, 0.1]] 1057.99 173996 33123
+srun: error: write(shepherd): Bad file descriptor
+srun: error: Invalid IO init header signature
+
+results =  [[2.55, 0.95, 10, 0.2, 0.1]] 963.8 158550 35213
+
+results =  [[2.55, 1.05, 10, 0.2, 0.1]] 1095.05 152888 41495
+
+results =  [[3.35, 0.85, 10, 0.2, 0.1]] 824.39 128986 36331
+
+results =  [[3.75, 1.05, 10, 0.2, 0.3]] 1607.9 65956 37285
+srun: error: write(shepherd): Bad file descriptor
+
+results =  [[2.95, 0.85, 10, 0.2, 0.1]] 843.4 141024 30192
+
+results =  [[3.35, 0.95, 10, 0.2, 0.1]] 936.72 117920 39654
+
+results =  [[2.95, 0.95, 10, 0.2, 0.1]] 919.1 139666 41326
+
+results =  [[3.35, 1.05, 10, 0.2, 0.1]] 1236.2 106406 40015
+
+results =  [[3.75, 0.95, 10, 0.2, 0.1]] 979.6 103410 40290
+srun: error: write(shepherd): Bad file descriptor
+Job end at Sun May 26 03:44:45 CEST 2024
